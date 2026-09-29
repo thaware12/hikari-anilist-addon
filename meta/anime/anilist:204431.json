@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "id": "anilist:204431",
+    "type": "anime",
+    "name": "Kaijuu 8-gou: Narumi no Heijitsu",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204431-5JC0YY6i6ECJ.jpg",
+    "background": null,
+    "description": "Original anime shorts about Narumi's daily life at work.",
+    "genres": [
+      "Slice of Life"
+    ],
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "anilist:204431:1",
+        "season": 1,
+        "episode": 1,
+        "title": "Episode 1"
+      },
+      {
+        "id": "anilist:204431:2",
+        "season": 1,
+        "episode": 2,
+        "title": "Episode 2"
+      },
+      {
+        "id": "anilist:204431:3",
+        "season": 1,
+        "episode": 3,
+        "title": "Episode 3"
+      },
+      {
+        "id": "anilist:204431:4",
+        "season": 1,
+        "episode": 4,
+        "title": "Episode 4"
+      }
+    ]
+  }
+}

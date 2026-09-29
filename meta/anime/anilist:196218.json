@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "id": "anilist:196218",
+    "type": "anime",
+    "name": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196218-UsdTTCrwpDIN.jpg",
+    "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196218-lX0y9T76KQkC.jpg",
+    "description": "The war is over, and hero Dias is finally rewarded with land of his own—only to discover it's a barren frontier with no people, no villages, and no sign of civilization. With nothing but endless grassland ahead of him, Dias sets out to build a domain from the ground up. But after meeting Alna, a mysterious girl with a blue horn, his lonely frontier is about to spring to life. \n\n(Source: Crunchyroll)\n\nNote: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama is streaming a week advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 10th, 2026.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "anilist:196218:1",
+        "season": 1,
+        "episode": 1,
+        "title": "Episode 1"
+      },
+      {
+        "id": "anilist:196218:2",
+        "season": 1,
+        "episode": 2,
+        "title": "Episode 2"
+      },
+      {
+        "id": "anilist:196218:3",
+        "season": 1,
+        "episode": 3,
+        "title": "Episode 3"
+      },
+      {
+        "id": "anilist:196218:4",
+        "season": 1,
+        "episode": 4,
+        "title": "Episode 4"
+      },
+      {
+        "id": "anilist:196218:5",
+        "season": 1,
+        "episode": 5,
+        "title": "Episode 5"
+      },
+      {
+        "id": "anilist:196218:6",
+        "season": 1,
+        "episode": 6,
+        "title": "Episode 6"
+      },
+      {
+        "id": "anilist:196218:7",
+        "season": 1,
+        "episode": 7,
+        "title": "Episode 7"
+      },
+      {
+        "id": "anilist:196218:8",
+        "season": 1,
+        "episode": 8,
+        "title": "Episode 8"
+      },
+      {
+        "id": "anilist:196218:9",
+        "season": 1,
+        "episode": 9,
+        "title": "Episode 9"
+      },
+      {
+        "id": "anilist:196218:10",
+        "season": 1,
+        "episode": 10,
+        "title": "Episode 10"
+      },
+      {
+        "id": "anilist:196218:11",
+        "season": 1,
+        "episode": 11,
+        "title": "Episode 11"
+      },
+      {
+        "id": "anilist:196218:12",
+        "season": 1,
+        "episode": 12,
+        "title": "Episode 12"
+      }
+    ]
+  }
+}

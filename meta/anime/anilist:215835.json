@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "anilist:215835",
+    "type": "anime",
+    "name": "Umayuru: Full Gate!",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx215835-B0seSw93V5qM.png",
+    "background": null,
+    "description": "\"Umayuru\" is a short anime series featuring pint-sized Uma Musume! This time, it’s a \"Full-Gate\" three-minute race where *all* the Uma Musume take to the track! A super-sized, laid-back gathering with everyone!",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "anilist:215835:1",
+        "season": 1,
+        "episode": 1,
+        "title": "Episode 1"
+      }
+    ]
+  }
+}

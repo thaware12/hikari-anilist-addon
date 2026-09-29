@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "anilist:21400",
+    "type": "anime",
+    "name": "Kizumonogatari III: Reiketsu-hen",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21400-38ykNo3j4xXo.png",
+    "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21400-5zcYUeVBptdG.jpg",
+    "description": "First season of the Monogatari Series, part 4/6. Contains the arc Koyomi Vamp from the Kizumonogatari light novel.\n\nWith help from Meme Oshino, the apparition specialist, Koyomi defeats the three powerful vampire hunters: Dramaturgy, Episode and Guillotinecutter. Koyomi takes back all the limbs of Kiss-Shot Acerola-Orion Heart-Under-Blade in order to become a human again. But, when he returns to Kiss-Shot, she reveals to him the cold truth of what it means to be a vampire—a creature of the night. Unable to take back what he has done, Koyomi feels nothing but regret and can only deny his dreadful fate. While Koyomi is struggling to face reality, his “friend” Tsubasa Hanekawa comes to him with a certain plan…\n\n(Source: Aniplex)",
+    "genres": [
+      "Action",
+      "Drama",
+      "Ecchi",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "releaseInfo": "2017",
+    "videos": [
+      {
+        "id": "anilist:21400:1",
+        "season": 1,
+        "episode": 1,
+        "title": "Episode 1"
+      }
+    ]
+  }
+}

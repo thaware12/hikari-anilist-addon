@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "id": "anilist:185692",
+    "type": "anime",
+    "name": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185692-1a8huwOIx7gw.jpg",
+    "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185692-FLmhWYEAA7IY.jpg",
+    "description": "Magical Girls - they're strong, cool and agile. Everyone wants to be one. Popular and high-paying, it's a respectable line of work. Kana Sakuragi, Hitomi Koshigaya, and the members of Magilumiere work to promote the Alice System, which allows Magical Girls to order the magic they need to battle. But behind the scenes, factions seeking to ease magic regulations and make a profit are moving...\n\n(Source: Prime Video)",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Mahou Shoujo"
+    ],
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "anilist:185692:1",
+        "season": 1,
+        "episode": 1,
+        "title": "Episode 1"
+      },
+      {
+        "id": "anilist:185692:2",
+        "season": 1,
+        "episode": 2,
+        "title": "Episode 2"
+      },
+      {
+        "id": "anilist:185692:3",
+        "season": 1,
+        "episode": 3,
+        "title": "Episode 3"
+      },
+      {
+        "id": "anilist:185692:4",
+        "season": 1,
+        "episode": 4,
+        "title": "Episode 4"
+      },
+      {
+        "id": "anilist:185692:5",
+        "season": 1,
+        "episode": 5,
+        "title": "Episode 5"
+      },
+      {
+        "id": "anilist:185692:6",
+        "season": 1,
+        "episode": 6,
+        "title": "Episode 6"
+      },
+      {
+        "id": "anilist:185692:7",
+        "season": 1,
+        "episode": 7,
+        "title": "Episode 7"
+      },
+      {
+        "id": "anilist:185692:8",
+        "season": 1,
+        "episode": 8,
+        "title": "Episode 8"
+      },
+      {
+        "id": "anilist:185692:9",
+        "season": 1,
+        "episode": 9,
+        "title": "Episode 9"
+      },
+      {
+        "id": "anilist:185692:10",
+        "season": 1,
+        "episode": 10,
+        "title": "Episode 10"
+      },
+      {
+        "id": "anilist:185692:11",
+        "season": 1,
+        "episode": 11,
+        "title": "Episode 11"
+      },
+      {
+        "id": "anilist:185692:12",
+        "season": 1,
+        "episode": 12,
+        "title": "Episode 12"
+      }
+    ]
+  }
+}

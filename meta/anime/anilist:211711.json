@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "anilist:211711",
+    "type": "anime",
+    "name": "Boku no Hero Academia: I am a hero too",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211711-CXV5AxBf8yuD.jpg",
+    "background": null,
+    "description": "Eri is now a high school student with a dream of becoming a musician. Next week will be her first street performance, but when she turns to Deku, now a teacher at U.A., about it...\n\n(Source: Crunchyroll)",
+    "genres": [
+      "Fantasy",
+      "Music",
+      "Slice of Life"
+    ],
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "anilist:211711:1",
+        "season": 1,
+        "episode": 1,
+        "title": "Episode 1"
+      }
+    ]
+  }
+}

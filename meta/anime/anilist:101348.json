@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "id": "anilist:101348",
+    "type": "anime",
+    "name": "VINLAND SAGA",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg",
+    "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101348-pivKKffCAwAY.jpg",
+    "description": "Thorfinn is son to one of the Vikings' greatest warriors, but when his father is killed in battle by the mercenary leader Askeladd, he swears to have his revenge. Thorfinn joins Askeladd's band in order to challenge him to a duel, and ends up caught in the middle of a war for the crown of England.\n\n(Source: Kodansha USA)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "releaseInfo": "2019",
+    "videos": [
+      {
+        "id": "anilist:101348:1",
+        "season": 1,
+        "episode": 1,
+        "title": "Episode 1"
+      },
+      {
+        "id": "anilist:101348:2",
+        "season": 1,
+        "episode": 2,
+        "title": "Episode 2"
+      },
+      {
+        "id": "anilist:101348:3",
+        "season": 1,
+        "episode": 3,
+        "title": "Episode 3"
+      },
+      {
+        "id": "anilist:101348:4",
+        "season": 1,
+        "episode": 4,
+        "title": "Episode 4"
+      },
+      {
+        "id": "anilist:101348:5",
+        "season": 1,
+        "episode": 5,
+        "title": "Episode 5"
+      },
+      {
+        "id": "anilist:101348:6",
+        "season": 1,
+        "episode": 6,
+        "title": "Episode 6"
+      },
+      {
+        "id": "anilist:101348:7",
+        "season": 1,
+        "episode": 7,
+        "title": "Episode 7"
+      },
+      {
+        "id": "anilist:101348:8",
+        "season": 1,
+        "episode": 8,
+        "title": "Episode 8"
+      },
+      {
+        "id": "anilist:101348:9",
+        "season": 1,
+        "episode": 9,
+        "title": "Episode 9"
+      },
+      {
+        "id": "anilist:101348:10",
+        "season": 1,
+        "episode": 10,
+        "title": "Episode 10"
+      },
+      {
+        "id": "anilist:101348:11",
+        "season": 1,
+        "episode": 11,
+        "title": "Episode 11"
+      },
+      {
+        "id": "anilist:101348:12",
+        "season": 1,
+        "episode": 12,
+        "title": "Episode 12"
+      },
+      {
+        "id": "anilist:101348:13",
+        "season": 1,
+        "episode": 13,
+        "title": "Episode 13"
+      },
+      {
+        "id": "anilist:101348:14",
+        "season": 1,
+        "episode": 14,
+        "title": "Episode 14"
+      },
+      {
+        "id": "anilist:101348:15",
+        "season": 1,
+        "episode": 15,
+        "title": "Episode 15"
+      },
+      {
+        "id": "anilist:101348:16",
+        "season": 1,
+        "episode": 16,
+        "title": "Episode 16"
+      },
+      {
+        "id": "anilist:101348:17",
+        "season": 1,
+        "episode": 17,
+        "title": "Episode 17"
+      },
+      {
+        "id": "anilist:101348:18",
+        "season": 1,
+        "episode": 18,
+        "title": "Episode 18"
+      },
+      {
+        "id": "anilist:101348:19",
+        "season": 1,
+        "episode": 19,
+        "title": "Episode 19"
+      },
+      {
+        "id": "anilist:101348:20",
+        "season": 1,
+        "episode": 20,
+        "title": "Episode 20"
+      },
+      {
+        "id": "anilist:101348:21",
+        "season": 1,
+        "episode": 21,
+        "title": "Episode 21"
+      },
+      {
+        "id": "anilist:101348:22",
+        "season": 1,
+        "episode": 22,
+        "title": "Episode 22"
+      },
+      {
+        "id": "anilist:101348:23",
+        "season": 1,
+        "episode": 23,
+        "title": "Episode 23"
+      },
+      {
+        "id": "anilist:101348:24",
+        "season": 1,
+        "episode": 24,
+        "title": "Episode 24"
+      }
+    ]
+  }
+}

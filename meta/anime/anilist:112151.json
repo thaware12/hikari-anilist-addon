@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "anilist:112151",
+    "type": "anime",
+    "name": "Kimetsu no Yaiba: Mugen Ressha-hen",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png",
+    "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
+    "description": "This Demon Slayer movie sees Tanjiro Kamado and friends from the Demon Slayer corps board the Infinity Train on a new mission to investigate a mysterious series of disappearances, perpetrated by a demon who has been tormenting people and killing the demon slayers who oppose it.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "releaseInfo": "2020",
+    "videos": [
+      {
+        "id": "anilist:112151:1",
+        "season": 1,
+        "episode": 1,
+        "title": "Episode 1"
+      }
+    ]
+  }
+}

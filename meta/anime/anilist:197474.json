@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "anilist:197474",
+    "type": "anime",
+    "name": "Shin Gintama Movie: Yoshiwara Daienjou",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197474-jTeY1G9gtD8i.jpg",
+    "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197474-dcJmLSLc3g10.jpg",
+    "description": "Movie remake of the Yoshiwara Enjou arc.\n\n\nUpon meeting a young boy named Haruta who makes a living as a pickpocket, Gintoki discovers that he is pickpocketing out of a desire to meet his long-lost mother, Hiwa, Yoshiwara's number one courtesan. Gintoki and his friends venture to Yoshiwara to fulfill Haruta's wish, but standing in their way is Housen, the Night King who rules Yoshiwara.\n\nNote: This anime was announced at the \"Gintama Multiverse Festival,\" an event held on August 16th, as part of the \"Gintama 20th Anniversary Project.\" This movie features volumes 25 and 26 of the manga, and the TV anime series spans eight episodes, from episodes 139 to 146.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "anilist:197474:1",
+        "season": 1,
+        "episode": 1,
+        "title": "Episode 1"
+      }
+    ]
+  }
+}

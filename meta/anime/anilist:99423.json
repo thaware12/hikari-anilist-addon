@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "id": "anilist:99423",
+    "type": "anime",
+    "name": "Darling in the Franxx",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99423-8MBxtwCeHf8B.png",
+    "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99423-OQfem628gdxD.jpg",
+    "description": "The distant future: Humanity established the mobile fort city, Plantation, upon the ruined wasteland. Within the city were pilot quarters, Mistilteinn, otherwise known as the “Birdcage.” That is where the children live... Their only mission in life was the fight. Their enemies are the mysterious giant organisms known as Kyoryu. The children operate robots known as FRANXX in order to face these still unseen enemies. Among them was a boy who was once called a child prodigy: Code number 016, Hiro. One day, a mysterious girl called Zero Two appears in front of Hiro. “I’ve found you, my Darling.”\n\n(Source: Crunchyroll)",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Psychological",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "releaseInfo": "2018",
+    "videos": [
+      {
+        "id": "anilist:99423:1",
+        "season": 1,
+        "episode": 1,
+        "title": "Episode 1"
+      },
+      {
+        "id": "anilist:99423:2",
+        "season": 1,
+        "episode": 2,
+        "title": "Episode 2"
+      },
+      {
+        "id": "anilist:99423:3",
+        "season": 1,
+        "episode": 3,
+        "title": "Episode 3"
+      },
+      {
+        "id": "anilist:99423:4",
+        "season": 1,
+        "episode": 4,
+        "title": "Episode 4"
+      },
+      {
+        "id": "anilist:99423:5",
+        "season": 1,
+        "episode": 5,
+        "title": "Episode 5"
+      },
+      {
+        "id": "anilist:99423:6",
+        "season": 1,
+        "episode": 6,
+        "title": "Episode 6"
+      },
+      {
+        "id": "anilist:99423:7",
+        "season": 1,
+        "episode": 7,
+        "title": "Episode 7"
+      },
+      {
+        "id": "anilist:99423:8",
+        "season": 1,
+        "episode": 8,
+        "title": "Episode 8"
+      },
+      {
+        "id": "anilist:99423:9",
+        "season": 1,
+        "episode": 9,
+        "title": "Episode 9"
+      },
+      {
+        "id": "anilist:99423:10",
+        "season": 1,
+        "episode": 10,
+        "title": "Episode 10"
+      },
+      {
+        "id": "anilist:99423:11",
+        "season": 1,
+        "episode": 11,
+        "title": "Episode 11"
+      },
+      {
+        "id": "anilist:99423:12",
+        "season": 1,
+        "episode": 12,
+        "title": "Episode 12"
+      },
+      {
+        "id": "anilist:99423:13",
+        "season": 1,
+        "episode": 13,
+        "title": "Episode 13"
+      },
+      {
+        "id": "anilist:99423:14",
+        "season": 1,
+        "episode": 14,
+        "title": "Episode 14"
+      },
+      {
+        "id": "anilist:99423:15",
+        "season": 1,
+        "episode": 15,
+        "title": "Episode 15"
+      },
+      {
+        "id": "anilist:99423:16",
+        "season": 1,
+        "episode": 16,
+        "title": "Episode 16"
+      },
+      {
+        "id": "anilist:99423:17",
+        "season": 1,
+        "episode": 17,
+        "title": "Episode 17"
+      },
+      {
+        "id": "anilist:99423:18",
+        "season": 1,
+        "episode": 18,
+        "title": "Episode 18"
+      },
+      {
+        "id": "anilist:99423:19",
+        "season": 1,
+        "episode": 19,
+        "title": "Episode 19"
+      },
+      {
+        "id": "anilist:99423:20",
+        "season": 1,
+        "episode": 20,
+        "title": "Episode 20"
+      },
+      {
+        "id": "anilist:99423:21",
+        "season": 1,
+        "episode": 21,
+        "title": "Episode 21"
+      },
+      {
+        "id": "anilist:99423:22",
+        "season": 1,
+        "episode": 22,
+        "title": "Episode 22"
+      },
+      {
+        "id": "anilist:99423:23",
+        "season": 1,
+        "episode": 23,
+        "title": "Episode 23"
+      },
+      {
+        "id": "anilist:99423:24",
+        "season": 1,
+        "episode": 24,
+        "title": "Episode 24"
+      }
+    ]
+  }
+}

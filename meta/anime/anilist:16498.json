@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "id": "anilist:16498",
+    "type": "anime",
+    "name": "Shingeki no Kyojin",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+    "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16498-8jpFCOcDmneX.jpg",
+    "description": "Several hundred years ago, humans were nearly exterminated by titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest of titans.\r\nFlash forward to the present and the city has not seen a titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a colossal titan that appears out of thin air. As the smaller titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single titan and take revenge for all of mankind.\r\n(Source: MangaHelpers)",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "releaseInfo": "2013",
+    "videos": [
+      {
+        "id": "anilist:16498:1",
+        "season": 1,
+        "episode": 1,
+        "title": "Episode 1"
+      },
+      {
+        "id": "anilist:16498:2",
+        "season": 1,
+        "episode": 2,
+        "title": "Episode 2"
+      },
+      {
+        "id": "anilist:16498:3",
+        "season": 1,
+        "episode": 3,
+        "title": "Episode 3"
+      },
+      {
+        "id": "anilist:16498:4",
+        "season": 1,
+        "episode": 4,
+        "title": "Episode 4"
+      },
+      {
+        "id": "anilist:16498:5",
+        "season": 1,
+        "episode": 5,
+        "title": "Episode 5"
+      },
+      {
+        "id": "anilist:16498:6",
+        "season": 1,
+        "episode": 6,
+        "title": "Episode 6"
+      },
+      {
+        "id": "anilist:16498:7",
+        "season": 1,
+        "episode": 7,
+        "title": "Episode 7"
+      },
+      {
+        "id": "anilist:16498:8",
+        "season": 1,
+        "episode": 8,
+        "title": "Episode 8"
+      },
+      {
+        "id": "anilist:16498:9",
+        "season": 1,
+        "episode": 9,
+        "title": "Episode 9"
+      },
+      {
+        "id": "anilist:16498:10",
+        "season": 1,
+        "episode": 10,
+        "title": "Episode 10"
+      },
+      {
+        "id": "anilist:16498:11",
+        "season": 1,
+        "episode": 11,
+        "title": "Episode 11"
+      },
+      {
+        "id": "anilist:16498:12",
+        "season": 1,
+        "episode": 12,
+        "title": "Episode 12"
+      },
+      {
+        "id": "anilist:16498:13",
+        "season": 1,
+        "episode": 13,
+        "title": "Episode 13"
+      },
+      {
+        "id": "anilist:16498:14",
+        "season": 1,
+        "episode": 14,
+        "title": "Episode 14"
+      },
+      {
+        "id": "anilist:16498:15",
+        "season": 1,
+        "episode": 15,
+        "title": "Episode 15"
+      },
+      {
+        "id": "anilist:16498:16",
+        "season": 1,
+        "episode": 16,
+        "title": "Episode 16"
+      },
+      {
+        "id": "anilist:16498:17",
+        "season": 1,
+        "episode": 17,
+        "title": "Episode 17"
+      },
+      {
+        "id": "anilist:16498:18",
+        "season": 1,
+        "episode": 18,
+        "title": "Episode 18"
+      },
+      {
+        "id": "anilist:16498:19",
+        "season": 1,
+        "episode": 19,
+        "title": "Episode 19"
+      },
+      {
+        "id": "anilist:16498:20",
+        "season": 1,
+        "episode": 20,
+        "title": "Episode 20"
+      },
+      {
+        "id": "anilist:16498:21",
+        "season": 1,
+        "episode": 21,
+        "title": "Episode 21"
+      },
+      {
+        "id": "anilist:16498:22",
+        "season": 1,
+        "episode": 22,
+        "title": "Episode 22"
+      },
+      {
+        "id": "anilist:16498:23",
+        "season": 1,
+        "episode": 23,
+        "title": "Episode 23"
+      },
+      {
+        "id": "anilist:16498:24",
+        "season": 1,
+        "episode": 24,
+        "title": "Episode 24"
+      },
+      {
+        "id": "anilist:16498:25",
+        "season": 1,
+        "episode": 25,
+        "title": "Episode 25"
+      }
+    ]
+  }
+}

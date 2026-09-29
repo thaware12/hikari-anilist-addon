@@ -1,0 +1,924 @@
+{
+  "meta": {
+    "id": "anilist:158871",
+    "type": "anime",
+    "name": "Pocket Monsters (2023)",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-GBM9AMDfDRSu.jpg",
+    "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-PtipBrtn93hB.jpg",
+    "description": "A new dream and adventure set throughout the entire Pokémon world unfolds in a brand new Pokémon-series following a girl named Liko and a boy named Roy.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "releaseInfo": "2023",
+    "videos": [
+      {
+        "id": "anilist:158871:1",
+        "season": 1,
+        "episode": 1,
+        "title": "Episode 1"
+      },
+      {
+        "id": "anilist:158871:2",
+        "season": 1,
+        "episode": 2,
+        "title": "Episode 2"
+      },
+      {
+        "id": "anilist:158871:3",
+        "season": 1,
+        "episode": 3,
+        "title": "Episode 3"
+      },
+      {
+        "id": "anilist:158871:4",
+        "season": 1,
+        "episode": 4,
+        "title": "Episode 4"
+      },
+      {
+        "id": "anilist:158871:5",
+        "season": 1,
+        "episode": 5,
+        "title": "Episode 5"
+      },
+      {
+        "id": "anilist:158871:6",
+        "season": 1,
+        "episode": 6,
+        "title": "Episode 6"
+      },
+      {
+        "id": "anilist:158871:7",
+        "season": 1,
+        "episode": 7,
+        "title": "Episode 7"
+      },
+      {
+        "id": "anilist:158871:8",
+        "season": 1,
+        "episode": 8,
+        "title": "Episode 8"
+      },
+      {
+        "id": "anilist:158871:9",
+        "season": 1,
+        "episode": 9,
+        "title": "Episode 9"
+      },
+      {
+        "id": "anilist:158871:10",
+        "season": 1,
+        "episode": 10,
+        "title": "Episode 10"
+      },
+      {
+        "id": "anilist:158871:11",
+        "season": 1,
+        "episode": 11,
+        "title": "Episode 11"
+      },
+      {
+        "id": "anilist:158871:12",
+        "season": 1,
+        "episode": 12,
+        "title": "Episode 12"
+      },
+      {
+        "id": "anilist:158871:13",
+        "season": 1,
+        "episode": 13,
+        "title": "Episode 13"
+      },
+      {
+        "id": "anilist:158871:14",
+        "season": 1,
+        "episode": 14,
+        "title": "Episode 14"
+      },
+      {
+        "id": "anilist:158871:15",
+        "season": 1,
+        "episode": 15,
+        "title": "Episode 15"
+      },
+      {
+        "id": "anilist:158871:16",
+        "season": 1,
+        "episode": 16,
+        "title": "Episode 16"
+      },
+      {
+        "id": "anilist:158871:17",
+        "season": 1,
+        "episode": 17,
+        "title": "Episode 17"
+      },
+      {
+        "id": "anilist:158871:18",
+        "season": 1,
+        "episode": 18,
+        "title": "Episode 18"
+      },
+      {
+        "id": "anilist:158871:19",
+        "season": 1,
+        "episode": 19,
+        "title": "Episode 19"
+      },
+      {
+        "id": "anilist:158871:20",
+        "season": 1,
+        "episode": 20,
+        "title": "Episode 20"
+      },
+      {
+        "id": "anilist:158871:21",
+        "season": 1,
+        "episode": 21,
+        "title": "Episode 21"
+      },
+      {
+        "id": "anilist:158871:22",
+        "season": 1,
+        "episode": 22,
+        "title": "Episode 22"
+      },
+      {
+        "id": "anilist:158871:23",
+        "season": 1,
+        "episode": 23,
+        "title": "Episode 23"
+      },
+      {
+        "id": "anilist:158871:24",
+        "season": 1,
+        "episode": 24,
+        "title": "Episode 24"
+      },
+      {
+        "id": "anilist:158871:25",
+        "season": 1,
+        "episode": 25,
+        "title": "Episode 25"
+      },
+      {
+        "id": "anilist:158871:26",
+        "season": 1,
+        "episode": 26,
+        "title": "Episode 26"
+      },
+      {
+        "id": "anilist:158871:27",
+        "season": 1,
+        "episode": 27,
+        "title": "Episode 27"
+      },
+      {
+        "id": "anilist:158871:28",
+        "season": 1,
+        "episode": 28,
+        "title": "Episode 28"
+      },
+      {
+        "id": "anilist:158871:29",
+        "season": 1,
+        "episode": 29,
+        "title": "Episode 29"
+      },
+      {
+        "id": "anilist:158871:30",
+        "season": 1,
+        "episode": 30,
+        "title": "Episode 30"
+      },
+      {
+        "id": "anilist:158871:31",
+        "season": 1,
+        "episode": 31,
+        "title": "Episode 31"
+      },
+      {
+        "id": "anilist:158871:32",
+        "season": 1,
+        "episode": 32,
+        "title": "Episode 32"
+      },
+      {
+        "id": "anilist:158871:33",
+        "season": 1,
+        "episode": 33,
+        "title": "Episode 33"
+      },
+      {
+        "id": "anilist:158871:34",
+        "season": 1,
+        "episode": 34,
+        "title": "Episode 34"
+      },
+      {
+        "id": "anilist:158871:35",
+        "season": 1,
+        "episode": 35,
+        "title": "Episode 35"
+      },
+      {
+        "id": "anilist:158871:36",
+        "season": 1,
+        "episode": 36,
+        "title": "Episode 36"
+      },
+      {
+        "id": "anilist:158871:37",
+        "season": 1,
+        "episode": 37,
+        "title": "Episode 37"
+      },
+      {
+        "id": "anilist:158871:38",
+        "season": 1,
+        "episode": 38,
+        "title": "Episode 38"
+      },
+      {
+        "id": "anilist:158871:39",
+        "season": 1,
+        "episode": 39,
+        "title": "Episode 39"
+      },
+      {
+        "id": "anilist:158871:40",
+        "season": 1,
+        "episode": 40,
+        "title": "Episode 40"
+      },
+      {
+        "id": "anilist:158871:41",
+        "season": 1,
+        "episode": 41,
+        "title": "Episode 41"
+      },
+      {
+        "id": "anilist:158871:42",
+        "season": 1,
+        "episode": 42,
+        "title": "Episode 42"
+      },
+      {
+        "id": "anilist:158871:43",
+        "season": 1,
+        "episode": 43,
+        "title": "Episode 43"
+      },
+      {
+        "id": "anilist:158871:44",
+        "season": 1,
+        "episode": 44,
+        "title": "Episode 44"
+      },
+      {
+        "id": "anilist:158871:45",
+        "season": 1,
+        "episode": 45,
+        "title": "Episode 45"
+      },
+      {
+        "id": "anilist:158871:46",
+        "season": 1,
+        "episode": 46,
+        "title": "Episode 46"
+      },
+      {
+        "id": "anilist:158871:47",
+        "season": 1,
+        "episode": 47,
+        "title": "Episode 47"
+      },
+      {
+        "id": "anilist:158871:48",
+        "season": 1,
+        "episode": 48,
+        "title": "Episode 48"
+      },
+      {
+        "id": "anilist:158871:49",
+        "season": 1,
+        "episode": 49,
+        "title": "Episode 49"
+      },
+      {
+        "id": "anilist:158871:50",
+        "season": 1,
+        "episode": 50,
+        "title": "Episode 50"
+      },
+      {
+        "id": "anilist:158871:51",
+        "season": 1,
+        "episode": 51,
+        "title": "Episode 51"
+      },
+      {
+        "id": "anilist:158871:52",
+        "season": 1,
+        "episode": 52,
+        "title": "Episode 52"
+      },
+      {
+        "id": "anilist:158871:53",
+        "season": 1,
+        "episode": 53,
+        "title": "Episode 53"
+      },
+      {
+        "id": "anilist:158871:54",
+        "season": 1,
+        "episode": 54,
+        "title": "Episode 54"
+      },
+      {
+        "id": "anilist:158871:55",
+        "season": 1,
+        "episode": 55,
+        "title": "Episode 55"
+      },
+      {
+        "id": "anilist:158871:56",
+        "season": 1,
+        "episode": 56,
+        "title": "Episode 56"
+      },
+      {
+        "id": "anilist:158871:57",
+        "season": 1,
+        "episode": 57,
+        "title": "Episode 57"
+      },
+      {
+        "id": "anilist:158871:58",
+        "season": 1,
+        "episode": 58,
+        "title": "Episode 58"
+      },
+      {
+        "id": "anilist:158871:59",
+        "season": 1,
+        "episode": 59,
+        "title": "Episode 59"
+      },
+      {
+        "id": "anilist:158871:60",
+        "season": 1,
+        "episode": 60,
+        "title": "Episode 60"
+      },
+      {
+        "id": "anilist:158871:61",
+        "season": 1,
+        "episode": 61,
+        "title": "Episode 61"
+      },
+      {
+        "id": "anilist:158871:62",
+        "season": 1,
+        "episode": 62,
+        "title": "Episode 62"
+      },
+      {
+        "id": "anilist:158871:63",
+        "season": 1,
+        "episode": 63,
+        "title": "Episode 63"
+      },
+      {
+        "id": "anilist:158871:64",
+        "season": 1,
+        "episode": 64,
+        "title": "Episode 64"
+      },
+      {
+        "id": "anilist:158871:65",
+        "season": 1,
+        "episode": 65,
+        "title": "Episode 65"
+      },
+      {
+        "id": "anilist:158871:66",
+        "season": 1,
+        "episode": 66,
+        "title": "Episode 66"
+      },
+      {
+        "id": "anilist:158871:67",
+        "season": 1,
+        "episode": 67,
+        "title": "Episode 67"
+      },
+      {
+        "id": "anilist:158871:68",
+        "season": 1,
+        "episode": 68,
+        "title": "Episode 68"
+      },
+      {
+        "id": "anilist:158871:69",
+        "season": 1,
+        "episode": 69,
+        "title": "Episode 69"
+      },
+      {
+        "id": "anilist:158871:70",
+        "season": 1,
+        "episode": 70,
+        "title": "Episode 70"
+      },
+      {
+        "id": "anilist:158871:71",
+        "season": 1,
+        "episode": 71,
+        "title": "Episode 71"
+      },
+      {
+        "id": "anilist:158871:72",
+        "season": 1,
+        "episode": 72,
+        "title": "Episode 72"
+      },
+      {
+        "id": "anilist:158871:73",
+        "season": 1,
+        "episode": 73,
+        "title": "Episode 73"
+      },
+      {
+        "id": "anilist:158871:74",
+        "season": 1,
+        "episode": 74,
+        "title": "Episode 74"
+      },
+      {
+        "id": "anilist:158871:75",
+        "season": 1,
+        "episode": 75,
+        "title": "Episode 75"
+      },
+      {
+        "id": "anilist:158871:76",
+        "season": 1,
+        "episode": 76,
+        "title": "Episode 76"
+      },
+      {
+        "id": "anilist:158871:77",
+        "season": 1,
+        "episode": 77,
+        "title": "Episode 77"
+      },
+      {
+        "id": "anilist:158871:78",
+        "season": 1,
+        "episode": 78,
+        "title": "Episode 78"
+      },
+      {
+        "id": "anilist:158871:79",
+        "season": 1,
+        "episode": 79,
+        "title": "Episode 79"
+      },
+      {
+        "id": "anilist:158871:80",
+        "season": 1,
+        "episode": 80,
+        "title": "Episode 80"
+      },
+      {
+        "id": "anilist:158871:81",
+        "season": 1,
+        "episode": 81,
+        "title": "Episode 81"
+      },
+      {
+        "id": "anilist:158871:82",
+        "season": 1,
+        "episode": 82,
+        "title": "Episode 82"
+      },
+      {
+        "id": "anilist:158871:83",
+        "season": 1,
+        "episode": 83,
+        "title": "Episode 83"
+      },
+      {
+        "id": "anilist:158871:84",
+        "season": 1,
+        "episode": 84,
+        "title": "Episode 84"
+      },
+      {
+        "id": "anilist:158871:85",
+        "season": 1,
+        "episode": 85,
+        "title": "Episode 85"
+      },
+      {
+        "id": "anilist:158871:86",
+        "season": 1,
+        "episode": 86,
+        "title": "Episode 86"
+      },
+      {
+        "id": "anilist:158871:87",
+        "season": 1,
+        "episode": 87,
+        "title": "Episode 87"
+      },
+      {
+        "id": "anilist:158871:88",
+        "season": 1,
+        "episode": 88,
+        "title": "Episode 88"
+      },
+      {
+        "id": "anilist:158871:89",
+        "season": 1,
+        "episode": 89,
+        "title": "Episode 89"
+      },
+      {
+        "id": "anilist:158871:90",
+        "season": 1,
+        "episode": 90,
+        "title": "Episode 90"
+      },
+      {
+        "id": "anilist:158871:91",
+        "season": 1,
+        "episode": 91,
+        "title": "Episode 91"
+      },
+      {
+        "id": "anilist:158871:92",
+        "season": 1,
+        "episode": 92,
+        "title": "Episode 92"
+      },
+      {
+        "id": "anilist:158871:93",
+        "season": 1,
+        "episode": 93,
+        "title": "Episode 93"
+      },
+      {
+        "id": "anilist:158871:94",
+        "season": 1,
+        "episode": 94,
+        "title": "Episode 94"
+      },
+      {
+        "id": "anilist:158871:95",
+        "season": 1,
+        "episode": 95,
+        "title": "Episode 95"
+      },
+      {
+        "id": "anilist:158871:96",
+        "season": 1,
+        "episode": 96,
+        "title": "Episode 96"
+      },
+      {
+        "id": "anilist:158871:97",
+        "season": 1,
+        "episode": 97,
+        "title": "Episode 97"
+      },
+      {
+        "id": "anilist:158871:98",
+        "season": 1,
+        "episode": 98,
+        "title": "Episode 98"
+      },
+      {
+        "id": "anilist:158871:99",
+        "season": 1,
+        "episode": 99,
+        "title": "Episode 99"
+      },
+      {
+        "id": "anilist:158871:100",
+        "season": 1,
+        "episode": 100,
+        "title": "Episode 100"
+      },
+      {
+        "id": "anilist:158871:101",
+        "season": 1,
+        "episode": 101,
+        "title": "Episode 101"
+      },
+      {
+        "id": "anilist:158871:102",
+        "season": 1,
+        "episode": 102,
+        "title": "Episode 102"
+      },
+      {
+        "id": "anilist:158871:103",
+        "season": 1,
+        "episode": 103,
+        "title": "Episode 103"
+      },
+      {
+        "id": "anilist:158871:104",
+        "season": 1,
+        "episode": 104,
+        "title": "Episode 104"
+      },
+      {
+        "id": "anilist:158871:105",
+        "season": 1,
+        "episode": 105,
+        "title": "Episode 105"
+      },
+      {
+        "id": "anilist:158871:106",
+        "season": 1,
+        "episode": 106,
+        "title": "Episode 106"
+      },
+      {
+        "id": "anilist:158871:107",
+        "season": 1,
+        "episode": 107,
+        "title": "Episode 107"
+      },
+      {
+        "id": "anilist:158871:108",
+        "season": 1,
+        "episode": 108,
+        "title": "Episode 108"
+      },
+      {
+        "id": "anilist:158871:109",
+        "season": 1,
+        "episode": 109,
+        "title": "Episode 109"
+      },
+      {
+        "id": "anilist:158871:110",
+        "season": 1,
+        "episode": 110,
+        "title": "Episode 110"
+      },
+      {
+        "id": "anilist:158871:111",
+        "season": 1,
+        "episode": 111,
+        "title": "Episode 111"
+      },
+      {
+        "id": "anilist:158871:112",
+        "season": 1,
+        "episode": 112,
+        "title": "Episode 112"
+      },
+      {
+        "id": "anilist:158871:113",
+        "season": 1,
+        "episode": 113,
+        "title": "Episode 113"
+      },
+      {
+        "id": "anilist:158871:114",
+        "season": 1,
+        "episode": 114,
+        "title": "Episode 114"
+      },
+      {
+        "id": "anilist:158871:115",
+        "season": 1,
+        "episode": 115,
+        "title": "Episode 115"
+      },
+      {
+        "id": "anilist:158871:116",
+        "season": 1,
+        "episode": 116,
+        "title": "Episode 116"
+      },
+      {
+        "id": "anilist:158871:117",
+        "season": 1,
+        "episode": 117,
+        "title": "Episode 117"
+      },
+      {
+        "id": "anilist:158871:118",
+        "season": 1,
+        "episode": 118,
+        "title": "Episode 118"
+      },
+      {
+        "id": "anilist:158871:119",
+        "season": 1,
+        "episode": 119,
+        "title": "Episode 119"
+      },
+      {
+        "id": "anilist:158871:120",
+        "season": 1,
+        "episode": 120,
+        "title": "Episode 120"
+      },
+      {
+        "id": "anilist:158871:121",
+        "season": 1,
+        "episode": 121,
+        "title": "Episode 121"
+      },
+      {
+        "id": "anilist:158871:122",
+        "season": 1,
+        "episode": 122,
+        "title": "Episode 122"
+      },
+      {
+        "id": "anilist:158871:123",
+        "season": 1,
+        "episode": 123,
+        "title": "Episode 123"
+      },
+      {
+        "id": "anilist:158871:124",
+        "season": 1,
+        "episode": 124,
+        "title": "Episode 124"
+      },
+      {
+        "id": "anilist:158871:125",
+        "season": 1,
+        "episode": 125,
+        "title": "Episode 125"
+      },
+      {
+        "id": "anilist:158871:126",
+        "season": 1,
+        "episode": 126,
+        "title": "Episode 126"
+      },
+      {
+        "id": "anilist:158871:127",
+        "season": 1,
+        "episode": 127,
+        "title": "Episode 127"
+      },
+      {
+        "id": "anilist:158871:128",
+        "season": 1,
+        "episode": 128,
+        "title": "Episode 128"
+      },
+      {
+        "id": "anilist:158871:129",
+        "season": 1,
+        "episode": 129,
+        "title": "Episode 129"
+      },
+      {
+        "id": "anilist:158871:130",
+        "season": 1,
+        "episode": 130,
+        "title": "Episode 130"
+      },
+      {
+        "id": "anilist:158871:131",
+        "season": 1,
+        "episode": 131,
+        "title": "Episode 131"
+      },
+      {
+        "id": "anilist:158871:132",
+        "season": 1,
+        "episode": 132,
+        "title": "Episode 132"
+      },
+      {
+        "id": "anilist:158871:133",
+        "season": 1,
+        "episode": 133,
+        "title": "Episode 133"
+      },
+      {
+        "id": "anilist:158871:134",
+        "season": 1,
+        "episode": 134,
+        "title": "Episode 134"
+      },
+      {
+        "id": "anilist:158871:135",
+        "season": 1,
+        "episode": 135,
+        "title": "Episode 135"
+      },
+      {
+        "id": "anilist:158871:136",
+        "season": 1,
+        "episode": 136,
+        "title": "Episode 136"
+      },
+      {
+        "id": "anilist:158871:137",
+        "season": 1,
+        "episode": 137,
+        "title": "Episode 137"
+      },
+      {
+        "id": "anilist:158871:138",
+        "season": 1,
+        "episode": 138,
+        "title": "Episode 138"
+      },
+      {
+        "id": "anilist:158871:139",
+        "season": 1,
+        "episode": 139,
+        "title": "Episode 139"
+      },
+      {
+        "id": "anilist:158871:140",
+        "season": 1,
+        "episode": 140,
+        "title": "Episode 140"
+      },
+      {
+        "id": "anilist:158871:141",
+        "season": 1,
+        "episode": 141,
+        "title": "Episode 141"
+      },
+      {
+        "id": "anilist:158871:142",
+        "season": 1,
+        "episode": 142,
+        "title": "Episode 142"
+      },
+      {
+        "id": "anilist:158871:143",
+        "season": 1,
+        "episode": 143,
+        "title": "Episode 143"
+      },
+      {
+        "id": "anilist:158871:144",
+        "season": 1,
+        "episode": 144,
+        "title": "Episode 144"
+      },
+      {
+        "id": "anilist:158871:145",
+        "season": 1,
+        "episode": 145,
+        "title": "Episode 145"
+      },
+      {
+        "id": "anilist:158871:146",
+        "season": 1,
+        "episode": 146,
+        "title": "Episode 146"
+      },
+      {
+        "id": "anilist:158871:147",
+        "season": 1,
+        "episode": 147,
+        "title": "Episode 147"
+      },
+      {
+        "id": "anilist:158871:148",
+        "season": 1,
+        "episode": 148,
+        "title": "Episode 148"
+      },
+      {
+        "id": "anilist:158871:149",
+        "season": 1,
+        "episode": 149,
+        "title": "Episode 149"
+      },
+      {
+        "id": "anilist:158871:150",
+        "season": 1,
+        "episode": 150,
+        "title": "Episode 150"
+      },
+      {
+        "id": "anilist:158871:151",
+        "season": 1,
+        "episode": 151,
+        "title": "Episode 151"
+      }
+    ]
+  }
+}

@@ -30,7 +30,7 @@
     },
     {
       "id": "anilist:8144",
-      "type": "movie",
+      "type": "anime",
       "name": "THE MOON: Tsuki ga Hoshii to Oujo-sama ga Naita",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8144.jpg",
       "background": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "anilist:10639",
-      "type": "movie",
+      "type": "anime",
       "name": "ZAN",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10639.jpg",
       "background": null,
@@ -150,7 +150,7 @@
     },
     {
       "id": "anilist:99839",
-      "type": "movie",
+      "type": "anime",
       "name": "BLAME! 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99839-aaXe8aEMoVkE.jpg",
       "background": null,
@@ -176,7 +176,7 @@
     },
     {
       "id": "anilist:100148",
-      "type": "movie",
+      "type": "anime",
       "name": "Zero Seiki Movie 2: Herlock",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100148-0tfdtJVMCyMm.jpg",
       "background": null,
@@ -190,7 +190,7 @@
     },
     {
       "id": "anilist:101635",
-      "type": "movie",
+      "type": "anime",
       "name": "Boku wa Robot Goshi no Kimi ni Koi wo Suru",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101635-AeukManfmb3t.jpg",
       "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101635-UGRWsNdmVxts.jpg",
@@ -203,7 +203,7 @@
     },
     {
       "id": "anilist:102288",
-      "type": "movie",
+      "type": "anime",
       "name": "To the Moon",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102288-at5VI7ByoFpA.jpg",
       "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102288-elfyquvASV68.jpg",
@@ -250,7 +250,7 @@
     },
     {
       "id": "anilist:104083",
-      "type": "movie",
+      "type": "anime",
       "name": "Hiroshima: Natsu no Nokgori no Bara",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104083-i4Y9ns7QdHMI.jpg",
       "background": null,
@@ -273,7 +273,7 @@
     },
     {
       "id": "anilist:107623",
-      "type": "movie",
+      "type": "anime",
       "name": "Zero Seiki Movie 3: Maetel",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107623-tC5mDZOUEPMz.jpg",
       "background": null,
@@ -287,7 +287,7 @@
     },
     {
       "id": "anilist:110206",
-      "type": "movie",
+      "type": "anime",
       "name": "Chimera",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110206-aOzRDXHZimT8.jpg",
       "background": null,
@@ -332,7 +332,7 @@
     },
     {
       "id": "anilist:115566",
-      "type": "movie",
+      "type": "anime",
       "name": "Saezuru Tori wa Habatakanai: The storm breaks",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115566-njgO3GadFJcA.png",
       "background": null,
@@ -387,7 +387,7 @@
     },
     {
       "id": "anilist:136205",
-      "type": "movie",
+      "type": "anime",
       "name": "Akubi wo Suru ni wa Wake ga Aru",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136205-OHyk4i03GO8H.png",
       "background": null,
@@ -413,7 +413,7 @@
     },
     {
       "id": "anilist:143549",
-      "type": "movie",
+      "type": "anime",
       "name": "Shin Q Saiyuuki",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143549-wFksVCsypMvm.jpg",
       "background": null,
@@ -541,7 +541,7 @@
     },
     {
       "id": "anilist:163789",
-      "type": "movie",
+      "type": "anime",
       "name": "Gumihodyeon",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
       "background": null,
@@ -584,7 +584,7 @@
     },
     {
       "id": "anilist:163792",
-      "type": "movie",
+      "type": "anime",
       "name": "Dalbitjogaksa",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
       "background": null,
@@ -653,7 +653,7 @@
     },
     {
       "id": "anilist:173311",
-      "type": "movie",
+      "type": "anime",
       "name": "Karabi Yau no Sukima",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173311-oD2FX37BDp6t.jpg",
       "background": null,
