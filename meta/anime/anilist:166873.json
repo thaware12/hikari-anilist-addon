@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "id": "anilist:166873",
+    "type": "anime",
+    "name": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166873-xO0BRPkmwFll.png",
+    "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166873-GTi5imE5skM2.jpg",
+    "description": "Following the faceless god Hitogami's advice seems to have worked wonders for Rudeus Greyrat. After enrolling into the University of Magic as he was told, Rudeus reunites with his childhood friend Sylphiette, who put a valiant effort into curing his condition. The two grow ever closer together and decide to host a wedding party, inviting the friends they have made over the years to announce and formalize their relationship.\n\nFor all his recent blessings, however, Rudeus' troubles are far from over. The research he is helping Shizuka Nanahoshi conduct hits a bottleneck, sending her into a deep slump much like he experienced in his previous life. Furthermore, a letter from his father, Paul, brings complications to Rudeus' relationships, and Sylphiette still knows next to nothing about his real background. In the face of these issues, Rudeus will have to apply the lessons he has learned in this new world to navigate through the challenges that come with living a life to its fullest.\n\n(Source: MAL Rewrite)",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "releaseInfo": "2024",
+    "videos": [
+      {
+        "id": "anilist:166873:1",
+        "season": 1,
+        "episode": 1,
+        "title": "Episode 1"
+      },
+      {
+        "id": "anilist:166873:2",
+        "season": 1,
+        "episode": 2,
+        "title": "Episode 2"
+      },
+      {
+        "id": "anilist:166873:3",
+        "season": 1,
+        "episode": 3,
+        "title": "Episode 3"
+      },
+      {
+        "id": "anilist:166873:4",
+        "season": 1,
+        "episode": 4,
+        "title": "Episode 4"
+      },
+      {
+        "id": "anilist:166873:5",
+        "season": 1,
+        "episode": 5,
+        "title": "Episode 5"
+      },
+      {
+        "id": "anilist:166873:6",
+        "season": 1,
+        "episode": 6,
+        "title": "Episode 6"
+      },
+      {
+        "id": "anilist:166873:7",
+        "season": 1,
+        "episode": 7,
+        "title": "Episode 7"
+      },
+      {
+        "id": "anilist:166873:8",
+        "season": 1,
+        "episode": 8,
+        "title": "Episode 8"
+      },
+      {
+        "id": "anilist:166873:9",
+        "season": 1,
+        "episode": 9,
+        "title": "Episode 9"
+      },
+      {
+        "id": "anilist:166873:10",
+        "season": 1,
+        "episode": 10,
+        "title": "Episode 10"
+      },
+      {
+        "id": "anilist:166873:11",
+        "season": 1,
+        "episode": 11,
+        "title": "Episode 11"
+      },
+      {
+        "id": "anilist:166873:12",
+        "season": 1,
+        "episode": 12,
+        "title": "Episode 12"
+      }
+    ]
+  }
+}

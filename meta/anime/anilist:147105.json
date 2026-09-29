@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "id": "anilist:147105",
+    "type": "anime",
+    "name": "Tongari Boushi no Atelier",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-rwOX8qyUy8gV.jpg",
+    "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/147105-fTjmRrILFixZ.jpg",
+    "description": "In a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: she wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch … until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she’s never seen before, Coco soon learns what everybody “knows” might not be the truth, and discovers that her magical dream may not be as far away as it may seem... \n\n(Source: Kodansha USA) \n\nNote: Tongari Boushi no Atelier episode 2 was streamed a week in advance on Crunchyroll, ABEMA, and Netflix, alongside episode 1. Streaming is one week ahead of the TV broadcast.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "anilist:147105:1",
+        "season": 1,
+        "episode": 1,
+        "title": "Episode 1"
+      },
+      {
+        "id": "anilist:147105:2",
+        "season": 1,
+        "episode": 2,
+        "title": "Episode 2"
+      },
+      {
+        "id": "anilist:147105:3",
+        "season": 1,
+        "episode": 3,
+        "title": "Episode 3"
+      },
+      {
+        "id": "anilist:147105:4",
+        "season": 1,
+        "episode": 4,
+        "title": "Episode 4"
+      },
+      {
+        "id": "anilist:147105:5",
+        "season": 1,
+        "episode": 5,
+        "title": "Episode 5"
+      },
+      {
+        "id": "anilist:147105:6",
+        "season": 1,
+        "episode": 6,
+        "title": "Episode 6"
+      },
+      {
+        "id": "anilist:147105:7",
+        "season": 1,
+        "episode": 7,
+        "title": "Episode 7"
+      },
+      {
+        "id": "anilist:147105:8",
+        "season": 1,
+        "episode": 8,
+        "title": "Episode 8"
+      },
+      {
+        "id": "anilist:147105:9",
+        "season": 1,
+        "episode": 9,
+        "title": "Episode 9"
+      },
+      {
+        "id": "anilist:147105:10",
+        "season": 1,
+        "episode": 10,
+        "title": "Episode 10"
+      },
+      {
+        "id": "anilist:147105:11",
+        "season": 1,
+        "episode": 11,
+        "title": "Episode 11"
+      },
+      {
+        "id": "anilist:147105:12",
+        "season": 1,
+        "episode": 12,
+        "title": "Episode 12"
+      },
+      {
+        "id": "anilist:147105:13",
+        "season": 1,
+        "episode": 13,
+        "title": "Episode 13"
+      }
+    ]
+  }
+}

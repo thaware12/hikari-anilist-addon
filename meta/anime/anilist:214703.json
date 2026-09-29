@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "id": "anilist:214703",
+    "type": "anime",
+    "name": "Ghost Meets Gal!",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214703-iXoaVH6UkiZd.png",
+    "background": null,
+    "description": null,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "anilist:214703:1",
+        "season": 1,
+        "episode": 1,
+        "title": "Episode 1"
+      },
+      {
+        "id": "anilist:214703:2",
+        "season": 1,
+        "episode": 2,
+        "title": "Episode 2"
+      },
+      {
+        "id": "anilist:214703:3",
+        "season": 1,
+        "episode": 3,
+        "title": "Episode 3"
+      },
+      {
+        "id": "anilist:214703:4",
+        "season": 1,
+        "episode": 4,
+        "title": "Episode 4"
+      }
+    ]
+  }
+}

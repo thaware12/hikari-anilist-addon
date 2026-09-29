@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "anilist:187260",
+      "type": "anime",
+      "name": "Kimi ga Shinu made Koi wo Shitai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+      "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187260-HMkLPy3ZvzW1.jpg",
+      "description": "At the mysterious orphanage where Sheena lives, death is nothing new to its residents—girls who no longer have families of their own, who are raised as weapons of war, taught to kill and take the lives of others without batting an eye. Everyone, that is, except Sheena, who wishes for nothing more than the growing conflict around her to end. On the night of her roommate's death, Sheena meets a strange girl covered in blood, who smiles despite the turmoil surrounding them. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi. Initially thought to be a school myth, there are now whispers in the orphanage's halls that Mimi is their secret weapon—an immortal who cannot die. When Mimi is later assigned as Sheena's new roommate, Sheena's world grows even more complicated when she begins living with someone who loves and welcomes death, when all Sheena wants to do is stop it…\n\n(Source: Kodansha USA)",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:197754",
       "type": "anime",
       "name": "LIAR GAME",
@@ -666,20 +680,6 @@
         "Action",
         "Adventure",
         "Fantasy"
-      ],
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:200637",
-      "type": "anime",
-      "name": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-QLR5uv9SbQ69.jpg",
-      "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200637-q9mehOFbbCgT.jpg",
-      "description": "The third season of Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo.",
-      "genres": [
-        "Comedy",
-        "Ecchi",
-        "Romance"
       ],
       "releaseInfo": "2026"
     }
