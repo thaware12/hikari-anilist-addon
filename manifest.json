@@ -1,6 +1,6 @@
 {
   "id": "community.hikari.anilist.catalog",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "name": "AniList for Hikari — UNOFFICIAL",
   "description": "AniList-native anime discovery and episode metadata for Hikari.",
   "resources": [
@@ -32,12 +32,12 @@
     {
       "type": "anime",
       "id": "airing",
-      "name": "📺 Airing Now"
+      "name": "📺 Airing Now — Latest First"
     },
     {
       "type": "anime",
       "id": "upcoming",
-      "name": "📅 Upcoming"
+      "name": "📅 Upcoming Next Season"
     },
     {
       "type": "anime",
