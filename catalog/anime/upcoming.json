@@ -1,0 +1,667 @@
+{
+  "metas": [
+    {
+      "id": "anilist:6504",
+      "type": "anime",
+      "name": "Despera",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6504-hZ8PYSEFN8l7.jpg",
+      "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6504-gHr7UdQ57oD1.jpg",
+      "description": "The story centers around Ain, a 14-year-old girl who builds devices despite the lack of the scientific background required for them. \n\nThe science-fiction story is set in Japan's Taisho era in 1922 — one year before the 1923 Great Kanto earthquake in the Tokyo area.",
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:7242",
+      "type": "anime",
+      "name": "Sengoku Gyoujin Dullahan: Kagen no Keishousha",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7242.jpg",
+      "background": null,
+      "description": "This story re-imagines Japan's violent Sengoku Era - instead of traditional samurai armor, legendary figures like Date Masamune fight wearing Gishin powered suits.\nMasamune's armor is called Oryu; however, the robot is too strong for the young Masamune to control, which leads to the death of many people. Fearing the power of Oryu, the other daimyo form an alliance against Masamune in order to destroy it.\n\n(Source: Anime News Network)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Mecha"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:8144",
+      "type": "movie",
+      "name": "THE MOON: Tsuki ga Hoshii to Oujo-sama ga Naita",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8144.jpg",
+      "background": null,
+      "description": "The story centers on a princess who wishes to reach the Moon. Her journey and resulting disappearance raise clamor and chaos throughout the royal palace and among the creatures of the kingdom.",
+      "genres": [
+        "Adventure"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:10089",
+      "type": "anime",
+      "name": "Girls' Work",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx10089-OoG8qY6kAzJO.jpg",
+      "background": null,
+      "description": "Note: First announced as an all-ages visual novel in the June 2008 issue of Tech Gian along with Mahou Tsukai no Yoru and the Tsukihime remake. In December 2010, it was announced that Girls' Work would be released as an anime series instead of a visual novel.",
+      "genres": [],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:10639",
+      "type": "movie",
+      "name": "ZAN",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10639.jpg",
+      "background": null,
+      "description": "During Japan’s Warring States period, the warrior ZAN was locked in a fierce battle at Azuchi Castle. Guided by the mysterious voice of a young girl, he steps beyond time and space into another world—a realm where he must face powerful rivals and monstrous beings known as Tropes. RIKKA, the ruler who commands the Tropes—the very symbols of life—maintains the world’s order. Questioning the justice behind his own battles, ZAN embarks on a journey to uncover the truth, joined by Panther, a mechanical lifeform, and Uzume, the enigmatic girl who called out to him.\n\n(Source: Official Website)\n\nNotes:\n- Announced in 2010 for a worldwide release in the spring of 2012. Despite a projected 2012 release date, Amano stated in an Oct 2012 interview that the project was still in its funding and development stages, and may instead be realised as a TV series down the road. \n- In 2022, they announced that the theatrical had instead been rebooted as a series, then in 2026, it was again changed and instead listed as a theatrical to be released in 2026 or later.",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:11501",
+      "type": "anime",
+      "name": "Shimanchu MiRiKa 2nd Series",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11501.jpg",
+      "background": null,
+      "description": "The anime revolves around three girls &mdash; Mai, Ruri, and Kei &mdash; who are into music and dance, Ryubu or Okinawan stage productions, and karate. Long-time voice actress Noriko Hidaka (Touch's Minami, Inuyasha's Kikyo, Ranma &frac12;'s Akane, Aim for the Top! Gunbuster's Noriko) plays the title role of MiRiKa &mdash; a name coined from Musical, Ryubu, and Karate.\n\n(Source: Anime News Network)",
+      "genres": [
+        "Slice of Life"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:20456",
+      "type": "anime",
+      "name": "Inferno Cop 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20456.jpg",
+      "background": null,
+      "description": "The second season of Inferno Cop.",
+      "genres": [
+        "Action"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:20622",
+      "type": "anime",
+      "name": "Sadon Desu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20622.jpg",
+      "background": null,
+      "description": "The story revolves around Koume who enters a private high school. She hears from her friend Sasuga that if she enters the tea ceremony club, she can eat snacks. They bring along their classmates Mikaeru and Momiji to join the club with her. The president of the club is 11th grader Ayame.",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:20676",
+      "type": "anime",
+      "name": "Tsubu★Doll",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20676.jpg",
+      "background": null,
+      "description": "With the stage set for 16 girls in Sagamihara, they will fulfill their dreams in a local idol story.\r\n\r\nRather than focusing on girls aiming to become top idol, the story will show realistic girls that could exist anywhere as they devote their energy towards idol activities in Sagamihara. The Tsubu Doll members are \"local idols\" living in Sagamihara instead of regular idols.",
+      "genres": [
+        "Music",
+        "Slice of Life"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:21456",
+      "type": "anime",
+      "name": "CHIKA☆CHIKA IDOL",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21456-dDGuqKZ5WeyD.jpg",
+      "background": null,
+      "description": "Portrays the lives of girls that are members of the \"underground idol\" group Patisserie. Underground idols, also called live idols and indie idols, are idols who focus on live performances instead of mass media exposure.\n\n(Source: Anime News Network)",
+      "genres": [
+        "Music"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:21566",
+      "type": "anime",
+      "name": "Saber Marionette J: The Last Story",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21566-z5tDAuzdE4dT.jpg",
+      "background": null,
+      "description": "The anime studio AIC announced on Monday that production on a new original video anime based on Satoru Akahori's Saber Marionette J novel has been green-lit. The studio plans to unveil the project in 2016.",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:87497",
+      "type": "anime",
+      "name": "MEKAKUCITY RELOAD",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/87497-9N85pTLaQhoa.jpg",
+      "background": null,
+      "description": "The four-part Niconico streaming program \"Seek at Mekakucity,\" which began on August 7 and featured Kagerou Project characters, ended on Tuesday with an announcement that the franchise will get \"more anime.\" The end of the video reveals a tentative title for a new anime: \"Mekakucity Reload.\"\n\n(Source: Anime News Network)",
+      "genres": [],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:99839",
+      "type": "movie",
+      "name": "BLAME! 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99839-aaXe8aEMoVkE.jpg",
+      "background": null,
+      "description": "Second movie adaption of the Blame! manga.",
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Psychological",
+        "Sci-Fi"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:100050",
+      "type": "anime",
+      "name": "LibraryCross∞",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100050-iyLeXYqEh6V5.jpg",
+      "background": null,
+      "description": "Based on Otomate's puzzle role-playing game.\n\nA medical student named Shiina and nine male partners are trapped in a certain dimensional realm with many ancient texts and an enormous mysterious clock. Together, they must find a way to escape by uncovering clues before the clock strikes \"13.\"\n\n(Source: Anime News Network)",
+      "genres": [],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:100148",
+      "type": "movie",
+      "name": "Zero Seiki Movie 2: Herlock",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100148-0tfdtJVMCyMm.jpg",
+      "background": null,
+      "description": "An anime movie that was announced at Japan Expo which was supposed to air in 2023.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:101635",
+      "type": "movie",
+      "name": "Boku wa Robot Goshi no Kimi ni Koi wo Suru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101635-AeukManfmb3t.jpg",
+      "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101635-UGRWsNdmVxts.jpg",
+      "description": "In the year 2060, Tokyo's third Olympics is close at hand. While a secret project using robots moves forward, notice of a terrorist threat arrives. 28-year-old Takeru is an operator at the AI institute that protects the public via remote controlled robots. Takeru operates T-004, a humanoid robot that is so convincing, most can't tell that it's a robot. Takeru has long pined for his youthful first crush, Saki who is also the sister of his coworker Youichirou. However, Saki encounters T-004 and finds herself growing attracted to the robot, who she believes is a man named \"Tsubasa.\"\n\n(Source: Anime News Network)",
+      "genres": [
+        "Romance",
+        "Sci-Fi"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:102288",
+      "type": "movie",
+      "name": "To the Moon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102288-at5VI7ByoFpA.jpg",
+      "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102288-elfyquvASV68.jpg",
+      "description": "A story-driven experience about two doctors traversing backwards through a dying man's memories to artificially fulfill his last wish. \n\n(Source: Steam)",
+      "genres": [
+        "Romance",
+        "Sci-Fi"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:102674",
+      "type": "anime",
+      "name": "Megazone 23 SIN",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102674-RaZZEyERZWmK.png",
+      "background": null,
+      "description": "Remake of Megazone 23",
+      "genres": [
+        "Action",
+        "Mecha",
+        "Music",
+        "Mystery",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:102675",
+      "type": "anime",
+      "name": "Megazone 23 XI",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102675-Vg3TLuszNvmr.png",
+      "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102675-2ALS31jG72zs.jpg",
+      "description": "The story is set aboard the Megazone 11, a different space colony ship fleet from the Megazone 23 in the 1985 original video anime. Megazone 11's master ships are designed as realistic simulations of Earth cities such as Tokyo, and there is also a satellite ship that is designed to resemble a smaller Japanese provincial city around the year 2020.\n\nThe protagonist Sakura is an ordinary second-year middle school student who lives aboard that satellite ship. She leads a secret life as part of a singing duo with Eve, a friend she made online. On a master ship, a resistance movement flares up. To achieve independence, they must take control of Tiamat, the system that controls the fleet, but the key to the system was lost in battle 80 years ago. With rumors of its reappearance surfacing, both the resistance and the government are seeking the key. One day, while visiting Akihabara on the Tokyo ship to meet Eve, Sakura is embroiled in the middle of a terrorist attack at the train station. As Eve remotely guides Sakura to safety, Sakura comes across Garland XI, a transforming motorcycle robot mecha that Eve tells her to use.\n\n\n\n(Source: Anime News Network)",
+      "genres": [
+        "Action",
+        "Mecha",
+        "Music",
+        "Mystery",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:104083",
+      "type": "movie",
+      "name": "Hiroshima: Natsu no Nokgori no Bara",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104083-i4Y9ns7QdHMI.jpg",
+      "background": null,
+      "description": "The film is the dying wish of Japanese-American animation director Jimmy Murakami, who passed away in 2004 at 80 years old. Murakami is known for the animated adaptations of When the Wind Blows and The Snowman, both books by Raymond Briggs. During World War II, Murakami was imprisoned at the Tule Lake War Relocation Center internment camp. He had told friends that he wanted his last work to be themed on Hiroshima.\n\nMurakami had wanted the film to be based on the life's work of historian Shigeaki Mori, who has spent more than 40 years gathering details on the 12 U.S. bomber crew members and prisoners of war who were killed during the atomic bombing of Hiroshima in 1945. Mori is himself a survivor of the bombing of Hiroshima, and is the subject of a recent documentary titled Paper Lanterns, which launched digitally and on home video on August 7.\n\nHiroshima: The Last Summer Rose, based on Mori's books, will tell a story of an American prisoner of war and a Japanese nursing student who fall in love, but are torn apart by the atomic bombing. The title comes from the Irish folk song \"The Last Rose of Summer,\" which is itself the basis for the famous Japanese song \"Niwa no Chigusa.\"",
+      "genres": [],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:106541",
+      "type": "anime",
+      "name": "Nora to Oujo to Noraneko Heart 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106541-xy5HRXFUKsxa.jpg",
+      "background": null,
+      "description": "Sequel to Nora to Oujo to Noraneko Heart.",
+      "genres": [
+        "Comedy",
+        "Ecchi"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:107623",
+      "type": "movie",
+      "name": "Zero Seiki Movie 3: Maetel",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107623-tC5mDZOUEPMz.jpg",
+      "background": null,
+      "description": "An anime movie that was announced at Japan Expo to air in 2026.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:110206",
+      "type": "movie",
+      "name": "Chimera",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110206-aOzRDXHZimT8.jpg",
+      "background": null,
+      "description": "The series centers on Kō Ōtori, a normal high school student who experiences a repeating dream of being eaten by a beast from inside himself. When Kō meets Reiichi Kuki, the elite student who rules his school, the encounter awakens hidden powers inside him.",
+      "genres": [
+        "Action",
+        "Horror",
+        "Supernatural"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:114441",
+      "type": "anime",
+      "name": "Ane Naru Mono",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114441-DkWOy3ykZxmt.png",
+      "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114441-AZcxoW9W4YaG.jpg",
+      "description": "When an orphan encounters the eldritch demon Shub-Niggurath, the \"Black Goat of the Woods with a Thousand Young\" offers him one wish. His request: \"Become my big sister.\"\n\n(Source: Yen Press)",
+      "genres": [
+        "Ecchi",
+        "Horror",
+        "Romance",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:115006",
+      "type": "anime",
+      "name": "Top wo Nerae 3! (Provisional Title)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115006-6U24g3amoJpv.png",
+      "background": null,
+      "description": null,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:115566",
+      "type": "movie",
+      "name": "Saezuru Tori wa Habatakanai: The storm breaks",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115566-njgO3GadFJcA.png",
+      "background": null,
+      "description": "The sequel to Saezuru Tori wa Habatakanai: The Clouds Gather.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:120815",
+      "type": "anime",
+      "name": "World End Economica",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120815-pnpY4m3g15JJ.jpg",
+      "background": null,
+      "description": "Yoshiharu Kawaura is part of the first generation of humans born on the Moon and has a wild dream: to be a part of the elite who live in the center of Lunar City. As a homeless teenage runaway with only meager savings and an irreverent attitude, he hides and sleeps in internet cafes while trading stocks on the Lunar Stock Exchange. With his hard work and natural intuition of the market, his seed money of one thousand mools grows to seventy-two thousand mools in a matter of months, with the end to his streak nowhere in sight.\n\nUnfortunately, despite the Moon being an economic paradise with limited regulations and low taxes, street urchins like Yoshiharu must always remain on the lookout. After an especially close call with the police, he takes refuge in a church owned and ran by Risa, a part-time worker at a Chinese restaurant. In a stroke of fate, also staying at the church is Hagana, a cold girl with mean eyes and genius-level mathematical abilities. Yoshiharu—now assuming the pseudonym Haru—immediately sees Hagana's potential as a quantitative analyst and establishes a partnership with her for a virtual stock trading competition known to be a ticket into the financial community. As their growing success both in and out of the competition leads to more people investing in Haru and his goal, will he be able to keep his cool and stay on top of the ever-volatile market?",
+      "genres": [
+        "Adventure",
+        "Psychological",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:126016",
+      "type": "anime",
+      "name": "AKIRA (Shin Anime)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126016-9PaIQHxFyyho.png",
+      "background": null,
+      "description": "Announced at Anime Expo 2019, the project is meant to be a complete adaptation of Ootomo Katsuhiro's post-apocalyptic cyberpunk manga AKIRA.",
+      "genres": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Psychological",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:130787",
+      "type": "anime",
+      "name": "KAGEROU DAZE No.9",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130787-zRGVPBxFc6zF.png",
+      "background": null,
+      "description": "New phase of the Kagerou Project, being another multi-media project spanning manga, music, and anime. It is a spin-off of the main series that takes place in the same world of the Kagerou Project three years later but through another perspective. \n \nThe anime in particular was to debut in a special screening on January 26th 2020, which was a reward only for those who completed the MekakuCity Quest, a limited-run real escape game campaign. However due to various circumstances, the premiere was delayed until further notice.",
+      "genres": [],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:136205",
+      "type": "movie",
+      "name": "Akubi wo Suru ni wa Wake ga Aru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136205-OHyk4i03GO8H.png",
+      "background": null,
+      "description": "Japan, 2093. A rural town that used to be the most prestigious town in the world has long since sunk 30 meters under the ocean's surface. The story is a tale of a girl who takes part in freediving (diving without the aid of equipment to breathe), and the emotional growth she experiences. \n\n(Source: Anime News Network)",
+      "genres": [
+        "Drama"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:137746",
+      "type": "anime",
+      "name": "Shanhe Jian Xin 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137746-D2Z2eP6QZ7Zz.jpg",
+      "background": null,
+      "description": "The second season of Shanhe Jian Xin.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:143549",
+      "type": "movie",
+      "name": "Shin Q Saiyuuki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143549-wFksVCsypMvm.jpg",
+      "background": null,
+      "description": "A feature film adaptation of Journey to the West directed by Mirai Mizue, blending CG animation with Mizue's trademark animation style.",
+      "genres": [],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:148316",
+      "type": "anime",
+      "name": "Hi-DRIVERS",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148316-1NEqvHUGczKY.jpg",
+      "background": null,
+      "description": "Set in Godtenber, an area at the foot of Mt. Fuji with neighborhoods that vary wildly in terms of city-scape and culture, Hi-DRIVERS follows the lives of teams of street racers who gather and compete in daily races where the only rule is that \"speed is everything\".",
+      "genres": [
+        "Action",
+        "Sports"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:148589",
+      "type": "anime",
+      "name": "Mahou Shoujuu Sherbert",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148589-UsupluWwH0f8.png",
+      "background": null,
+      "description": "When Sherbert, a young hero-in-training, accidentally teleports a pack of Kuuka to our world, he teams up with a young girl named Togawa Erika, giving her magical powers to help in the battle against his sworn enemies. Together, they form a bond that strengthens both of them, becoming a powerful force for good in our world.",
+      "genres": [
+        "Fantasy",
+        "Mahou Shoujo"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:149084",
+      "type": "anime",
+      "name": "Tokyo Ghetto 0.8",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b149084-JNaNU0e6Be0v.jpg",
+      "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/149084-QL8nZlglVlXW.jpg",
+      "description": "Tokyo Ghetto 0.8 depicts the past past stories of the characters that could not be told in the 2018 Music Video. The project, directed by Waboku was announced during the Christmas Eve Radio on 24 December 2020, along with another project \"BATEN KAITOS\".",
+      "genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:154765",
+      "type": "anime",
+      "name": "Genshin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154765-RhfBamIEdCN0.jpg",
+      "background": null,
+      "description": "A long-term collaboration project with studio ufotable for the video game Genshin Impact. Let's step into this vast magical world of adventure together!",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:155737",
+      "type": "anime",
+      "name": "Housekeeper",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155737-8hAtC3PyxB8c.jpg",
+      "background": null,
+      "description": "In the near future where Android (A.I) becomes common among humans, a virus outbreak suddenly occurred, turning over 70% humanity into zombie-like \"Creatures\". The A.I soon break away from their infected owners since they're not programmed to recognize \"Creatures\" as humans, but one of them, the housekeeper Hasty, acted otherwise when her infected young master, Neville's final words struck something in her. Sticking with him after all other humans have been infected in the area they're living in, Hasty vows to do whatever it takes to cure master Neville, even if she has to fight against the whole world who's now looking to exterminate all Creatures to cut off the infection source completely.",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:158987",
+      "type": "anime",
+      "name": "Jing Wei Wu Jian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158987-r3U5FmQugaRM.png",
+      "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158987-eRE8CSvjPr7l.jpg",
+      "description": "Adapted from the JJWXC novel ‘Jing Wei Qing Shang’ by Qing Jun Mo Xiao/Please Don’t Laugh, this is a romantic story about two incredible young women.  \n\nLegend says that the land was once separated by the Luo river. \n\nTo the south was the agricultural Wei kingdom, and to the north, the nomadic Jing kingdom. \n\nAgula, a Princess of the Jing kingdom, had to become a Prince since birth so that her loving parents could stay together. Nangong Jingnu, a Princess of the Wei kingdom, was meant to live a carefree life, but the political struggles of the court made it necessary for her to follow the footsteps of her father. \n\nAfter a war turned Agula into an orphan, she went into hiding for ten years, honing her skills in order to infiltrate the Wei kingdom as a sycophantic official and bring chaos to the world. However, due to a series of events, she was appointed to be Nangong Jingnu’s husband at the Qionglin banquet…",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Romance"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:161410",
+      "type": "anime",
+      "name": "Lycoris Recoil (Shinsaku Animation)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161410-KoPOBuyPm0yS.png",
+      "background": null,
+      "description": "Lycoris Recoil new anime project.\n\nNote: Title and Relations are provisional and will be updated when more info is announced.",
+      "genres": [],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:162146",
+      "type": "anime",
+      "name": "ZAIYUKI",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162146-4eTANomtlHBK.png",
+      "background": null,
+      "description": "ZAIYUKI centers around a kappa boy who is thrust into an adventure of growing up after a treasure hunter comes along, based on the ever-inspiring \"Journey to the West\" story. \n(Source: Crunchyroll, edited)",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:163787",
+      "type": "anime",
+      "name": "Naje Tteuneun Dal",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "background": null,
+      "description": "A man whose time has stopped, and a woman who flows like a river.\nA story about strife that comes and goes in the past and in the present.\n\n(Source: Naver, translated)",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Supernatural",
+        "Thriller"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:163789",
+      "type": "movie",
+      "name": "Gumihodyeon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "background": null,
+      "description": "The mythical nine-tailed fox, gumiho, also known as Lee Yeon, has just moved into the city. Able to take human form, he cleanses human minds, while creating havoc.\n\nNam Ji Ah, whose current show features urban myths, will stop at nothing to highlight an unusual, even dangerous subject. She targets Lee Yeon, who seems too good to be true, irresistibly handsome, intelligent, fit: the ideal guest.\n\nLee Yeon's half-brother is the captivating Lee Rang, reputed to be the most dangerous gumiho among humans. Even though he is half-human himself, he has a deep contempt for all human beings.",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:163790",
+      "type": "anime",
+      "name": "Igye Geomwang Saengjongi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "background": null,
+      "description": "After being recently discharged from military service and just drifting through life, Hanbin Ryu is suddenly transported to another world. However, his “guide line,” the system bestowed upon him to help with his survival and growth, was filled with errors, causing him to be stuck in the tutorial stage for over 20 years. When he is finally released from this personal hell, he finds everyone has turned against otherworlders like him. Just how will this low-level, super-tutorial newbie survive?(Source: Tapas)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:163791",
+      "type": "anime",
+      "name": "Dokgo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "background": null,
+      "description": "After Kang Hu’s death from bullying, the family was torn into pieces. His younger brother suppresses his resentment and heads back to school. The story begins exactly one year after Kang Hu’s death when his brother seeks to destroy the delinquent circle...",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:163792",
+      "type": "movie",
+      "name": "Dalbitjogaksa",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "background": null,
+      "description": "Hyun’s what some may call resourceful, thrifty, or, um, stingy. Whatever you call him, he’s also dedicated—he grinded night-and-day to get a top-tier character. But once he sold it, every last cent was taken away by loan sharks. In the new VR MMO Royal Road, he’s committed to making it big for himself and his family. He knows that he should absolutely NEVER be one of those weak and poor sculptors, so what’s he going to do when he accidentally becomes the Legendary Moonlight Sculptor?(Source: Tapas)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Romance"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:163794",
+      "type": "anime",
+      "name": "The Boxer",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "background": null,
+      "description": "You’ve got the raw talent. Or you’re the underdog. But do you have the heart? Do you have what it takes? Let’s see what you’re made of. The real fight starts now! \n\n(Source: WEBTOONS)",
+      "genres": [
+        "Action",
+        "Sports"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:163795",
+      "type": "anime",
+      "name": "Miraeui Goldongpum Gage",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "background": null,
+      "description": null,
+      "genres": [
+        "Drama"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:163991",
+      "type": "anime",
+      "name": "Gosu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b163991-l1SNf7Q5SfBG.jpg",
+      "background": null,
+      "description": "A young man set forth to avenge his master, a once powerful martial artist who was betrayed by his own men and barely escaped with his life. Armed with his master's supreme martial art techniques, he is ready to bring terror and wreak havoc among the murim. But before he even got started, he learns that the ones who had betrayed his master are already dead... Erm, so what happens now?\n\n(Source: WEBTOON)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Supernatural"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:165523",
+      "type": "anime",
+      "name": "BORUTO: NARUTO NEXT GENERATIONS Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165523-zpuZUkdTTRD3.jpg",
+      "background": null,
+      "description": "The second part of BORUTO: NARUTO NEXT GENERATIONS.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "releaseInfo": ""
+    },
+    {
+      "id": "anilist:173311",
+      "type": "movie",
+      "name": "Karabi Yau no Sukima",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173311-oD2FX37BDp6t.jpg",
+      "background": null,
+      "description": "New short film by Saku Sakamoto announced during the screening of Amrita no Kyouen.",
+      "genres": [
+        "Horror"
+      ],
+      "releaseInfo": ""
+    }
+  ]
+}

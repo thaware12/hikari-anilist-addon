@@ -1,0 +1,53 @@
+{
+  "id": "community.hikari.anilist.catalog",
+  "version": "1.0.0",
+  "name": "AniList for Hikari",
+  "description": "AniList-native anime discovery catalogs for Hikari.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "anime",
+    "movie"
+  ],
+  "idPrefixes": [
+    "anilist:"
+  ],
+  "catalogs": [
+    {
+      "type": "anime",
+      "id": "trending",
+      "name": "🔥 Trending Now"
+    },
+    {
+      "type": "anime",
+      "id": "popular",
+      "name": "❤️ All-Time Popular"
+    },
+    {
+      "type": "anime",
+      "id": "seasonal",
+      "name": "🌸 Current Season"
+    },
+    {
+      "type": "anime",
+      "id": "airing",
+      "name": "📺 Airing Now"
+    },
+    {
+      "type": "anime",
+      "id": "upcoming",
+      "name": "📅 Upcoming"
+    },
+    {
+      "type": "anime",
+      "id": "completed",
+      "name": "✅ Recently Completed"
+    },
+    {
+      "type": "anime",
+      "id": "top",
+      "name": "🏆 Top Rated"
+    }
+  ]
+}
