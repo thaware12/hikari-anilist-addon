@@ -20,73 +20,85 @@
         "id": "anilist:21507:1",
         "season": 1,
         "episode": 1,
-        "title": "Episode 1"
+        "title": "Episode 1",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/16e780e0fb74dd22e755daffb8eca1e01546470786_full.jpg"
       },
       {
         "id": "anilist:21507:2",
         "season": 1,
         "episode": 2,
-        "title": "Episode 2"
+        "title": "Episode 2",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/0cbe4b61b234b46fe04d1088c5fd661e1546471152_full.jpg"
       },
       {
         "id": "anilist:21507:3",
         "season": 1,
         "episode": 3,
-        "title": "Episode 3"
+        "title": "Episode 3",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/6a6400ec7c528904d750fab337ce9c321546471470_full.jpg"
       },
       {
         "id": "anilist:21507:4",
         "season": 1,
         "episode": 4,
-        "title": "Episode 4"
+        "title": "Episode 4",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/9d2dd3c21ee7cb76d3e7ad7a051a789c1546471748_full.jpg"
       },
       {
         "id": "anilist:21507:5",
         "season": 1,
         "episode": 5,
-        "title": "Episode 5"
+        "title": "Episode 5",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/7993c4b93f79ac2bbdcd65ab5bb791f71546472107_full.jpg"
       },
       {
         "id": "anilist:21507:6",
         "season": 1,
         "episode": 6,
-        "title": "Episode 6"
+        "title": "Episode 6",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/91d1324b2af2d50626c06daaed5935221546472471_full.jpg"
       },
       {
         "id": "anilist:21507:7",
         "season": 1,
         "episode": 7,
-        "title": "Episode 7"
+        "title": "Episode 7",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/0d85dce5f742e611ae5f62c2ccee19251555546869_full.jpg"
       },
       {
         "id": "anilist:21507:8",
         "season": 1,
         "episode": 8,
-        "title": "Episode 8"
+        "title": "Episode 8",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/352368445780d5112755df014e6dadc61546473075_full.jpg"
       },
       {
         "id": "anilist:21507:9",
         "season": 1,
         "episode": 9,
-        "title": "Episode 9"
+        "title": "Episode 9",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/a1cde9bae8898b6075ab0bbb975064c31546473316_full.jpg"
       },
       {
         "id": "anilist:21507:10",
         "season": 1,
         "episode": 10,
-        "title": "Episode 10"
+        "title": "Episode 10",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/affdc52ccb09593b0da55a3e651381061546483205_full.jpg"
       },
       {
         "id": "anilist:21507:11",
         "season": 1,
         "episode": 11,
-        "title": "Episode 11"
+        "title": "Episode 11",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/4ca62a633b5187a5c521fe2b1d0d26661546483508_full.jpg"
       },
       {
         "id": "anilist:21507:12",
         "season": 1,
         "episode": 12,
-        "title": "Episode 12"
+        "title": "Episode 12",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/9a15ae09dc02dffa70eca2c03d92bf731546483808_full.jpg"
       }
     ]
   }
