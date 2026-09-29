@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "id": "anilist:213486",
+    "type": "anime",
+    "name": "You Shou Yan 6th Season",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213486-0hRJQlfdtajf.png",
+    "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213486-I5RpUqCjdvfR.jpg",
+    "description": "The sixth season of You Shou Yan.",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "anilist:213486:1",
+        "season": 1,
+        "episode": 1,
+        "title": "Episode 1"
+      },
+      {
+        "id": "anilist:213486:2",
+        "season": 1,
+        "episode": 2,
+        "title": "Episode 2"
+      },
+      {
+        "id": "anilist:213486:3",
+        "season": 1,
+        "episode": 3,
+        "title": "Episode 3"
+      },
+      {
+        "id": "anilist:213486:4",
+        "season": 1,
+        "episode": 4,
+        "title": "Episode 4"
+      },
+      {
+        "id": "anilist:213486:5",
+        "season": 1,
+        "episode": 5,
+        "title": "Episode 5"
+      },
+      {
+        "id": "anilist:213486:6",
+        "season": 1,
+        "episode": 6,
+        "title": "Episode 6"
+      },
+      {
+        "id": "anilist:213486:7",
+        "season": 1,
+        "episode": 7,
+        "title": "Episode 7"
+      },
+      {
+        "id": "anilist:213486:8",
+        "season": 1,
+        "episode": 8,
+        "title": "Episode 8"
+      },
+      {
+        "id": "anilist:213486:9",
+        "season": 1,
+        "episode": 9,
+        "title": "Episode 9"
+      }
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 {
   "id": "community.hikari.anilist.catalog",
   "version": "1.2.0",
-  "name": "AniList for Hikari",
+  "name": "AniList for Hikari — UNOFFICIAL",
   "description": "AniList-native anime discovery and episode metadata for Hikari.",
   "resources": [
     "catalog",
