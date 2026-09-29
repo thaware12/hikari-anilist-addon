@@ -1,6 +1,18 @@
 {
   "metas": [
     {
+      "id": "anilist:204656",
+      "type": "anime",
+      "name": "mofusand",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
+      "background": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204656-ECYkRJKBxTLj.jpg",
+      "description": "Shark Meow is an orange tabby kitty who wears a shark suit.\nA little clumsy and always taking things at their own cozy pace,\nbut every day with their best kitty friends — and the rescued baby kitty, Little Meow —\nis filled with unexpected little mishaps and sweet adventures.\n \nA sunny warm spot in the park, the sparkle of the sea,\nsteam rising from freshly roasted sweet potatoes,\nthe fluttery feeling of the first snowfall…\nThese small everyday moments fill their world with warmth and delight.\n \nYou can’t help but smile and think, “So true!”\nA soft and snuggly kitty anime that brings joy to everyday moments.\n\n(Source: QTORY Channel)",
+      "genres": [
+        "Slice of Life"
+      ],
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:207809",
       "type": "anime",
       "name": "Sora wa Akai Kawa no Hotori",
