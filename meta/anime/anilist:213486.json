@@ -66,6 +66,12 @@
         "season": 1,
         "episode": 9,
         "title": "Episode 9"
+      },
+      {
+        "id": "anilist:213486:10",
+        "season": 1,
+        "episode": 10,
+        "title": "Episode 10"
       }
     ]
   }
